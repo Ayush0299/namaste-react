@@ -37,3 +37,15 @@ own words.
 - Read about: `^` - `caret` and `~` - `tilde`
 - Read about `Script types in html` (MDN Docs)
 ---
+
+## 📚 [Chapter 03 - Laying the foundation]()
+
+- `JSX`
+- `React.createElement` vs `JSX`
+- `Benefits of JSX`
+- `Behind the Scenes of JSX`
+- `Babel` & `parcel` role in JSX
+- `Components`
+- `Functional Components`
+- `Composing Components` 
+---
