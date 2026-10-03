@@ -38,7 +38,7 @@ own words.
 - Read about `Script types in html` (MDN Docs)
 ---
 
-## 📚 [Chapter 03 - Laying the foundation]()
+## 📚 [Episode 3 - Laying the foundation](https://github.com/Ayushpatel2006/namaste-react/tree/main/Episode%2003%20-%20Laying%20the%20Foundation)
 
 - `JSX`
 - `React.createElement` vs `JSX`
