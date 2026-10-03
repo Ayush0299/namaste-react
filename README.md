@@ -50,7 +50,7 @@ own words.
 - `Composing Components` 
 ---
 
-## 📚 [Chapter 04 - Talk is Cheap, show me the code]()
+## 📚 [Chapter 04 - Talk is Cheap, show me the code](https://github.com/Ayushpatel2006/namaste-react/tree/main/Episode%2004%20-%20Talk%20is%20cheap%2C%20show%20me%20the%20code!)
 - Is `JSX` mandatory for React?
 - Is `ES6` mandatory for React?
 - `{TitleComponent}` vs `{<TitleComponent/>}` vs `{<TitleComponent></TitleComponent>}` in `JSX`.
