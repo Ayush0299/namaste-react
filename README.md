@@ -63,3 +63,9 @@ own words.
 - What is `props in React`? Ways to.
 - What is `Config Driven UI`?
 ---
+## 📚 [Chapter 05 - Let's get Hooked!]()
+- What is the `difference` between `Named export`, `Default export`, and `* as export`?
+- What is the `importance` of `config.js` file?
+- What are `React Hooks`?
+- Why do we need `useState Hook`?
+---
