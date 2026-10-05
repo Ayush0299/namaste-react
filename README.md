@@ -69,4 +69,16 @@ own words.
 - What are `React Hooks`?
 - Why do we need `useState Hook`?
 ---
-
+## 📚 [Chapter 06 - Exploring the world](https://github.com/Ayushpatel2006/namaste-react/tree/main/Episode%2006%20-%20Exploring%20The%20World)
+- What is `Microservice`?
+- What is `Monolith architecture`?
+- What is the `difference` between `Monolith and Microservice?
+- Why do we need a `useEffect Hook`?
+- What is `Optional Chaining`?
+- What is `Shimmer UI`?
+- What is the `difference` between `JS expression and JS statement`?
+- What is `Conditional Rendering`? explain with a code example.
+- What is `CORS`?
+- What is `async and await`?
+- What is the use of `const json = await data.json()`; in `getRestaurants()`?
+---
