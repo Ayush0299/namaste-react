@@ -82,7 +82,7 @@ own words.
 - What is `async and await`?
 - What is the use of `const json = await data.json()`; in `getRestaurants()`?
 ---
-## 📚 [Episode 07 - Finding the Path]()
+## 📚 [Episode 07 - Finding the Path](https://github.com/Ayush0299/namaste-react/tree/main/Episode%2007%20-%20Finding%20the%20Path)
 - What are various ways to `add images` into our App? Explain with `code examples`.
 - What would happen if we do `console.log(useState())`?
 - How will `useEffect` behave if we `don't add` a `dependency array`?
