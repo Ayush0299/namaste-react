@@ -89,3 +89,12 @@ own words.
 - What is `SPA`?
 - What is the `difference` between `Client Side Routing` and `Server Side Routing`?
 ---
+## 📚 [Episode 08 - Let's get Classy](https://github.com/Ayush0299/namaste-react/tree/main/Episode%2008%20-%20Let's%20Get%20Classy)
+- How do you create `Nested Routes react-router-dom` configuration?
+- Read about `createHashRouter`, `createMemoryRouter` from React Router docs.
+- What is the `order of life cycle method calls` in `Class Based Components`?
+- Why do we use `componentDidMount`?
+- Why do we use `componentWillUnmount`? Show with `example`.
+- (Research) Why do we use `super(props)` in `constructor`?
+- (Research) Why `can't we have` the `callback function` of `useEffect async`?
+---
