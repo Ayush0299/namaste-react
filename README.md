@@ -50,7 +50,7 @@ own words.
 - `Composing Components` 
 ---
 
-## 📚 [Chapter 04 - Talk is Cheap, show me the code](https://github.com/Ayushpatel2006/namaste-react/tree/main/Episode%2004%20-%20Talk%20is%20cheap%2C%20show%20me%20the%20code!)
+## 📚 [Episode 04 - Talk is Cheap, show me the code](https://github.com/Ayushpatel2006/namaste-react/tree/main/Episode%2004%20-%20Talk%20is%20cheap%2C%20show%20me%20the%20code!)
 - Is `JSX` mandatory for React?
 - Is `ES6` mandatory for React?
 - `{TitleComponent}` vs `{<TitleComponent/>}` vs `{<TitleComponent></TitleComponent>}` in `JSX`.
@@ -63,13 +63,13 @@ own words.
 - What is `props in React`? Ways to.
 - What is `Config Driven UI`?
 ---
-## 📚 [Chapter 05 - Let's get Hooked!](https://github.com/Ayushpatel2006/namaste-react/tree/main/Episode%2005%20-%20Let's%20get%20Hooked)
+## 📚 [Episode 05 - Let's get Hooked!](https://github.com/Ayushpatel2006/namaste-react/tree/main/Episode%2005%20-%20Let's%20get%20Hooked)
 - What is the `difference` between `Named export`, `Default export`, and `* as export`?
 - What is the `importance` of `config.js` file?
 - What are `React Hooks`?
 - Why do we need `useState Hook`?
 ---
-## 📚 [Chapter 06 - Exploring the world](https://github.com/Ayushpatel2006/namaste-react/tree/main/Episode%2006%20-%20Exploring%20The%20World)
+## 📚 [Episode 06 - Exploring the world](https://github.com/Ayushpatel2006/namaste-react/tree/main/Episode%2006%20-%20Exploring%20The%20World)
 - What is `Microservice`?
 - What is `Monolith architecture`?
 - What is the `difference` between `Monolith and Microservice?
@@ -81,4 +81,11 @@ own words.
 - What is `CORS`?
 - What is `async and await`?
 - What is the use of `const json = await data.json()`; in `getRestaurants()`?
+---
+## 📚 [Episode 07 - Finding the Path]()
+- What are various ways to `add images` into our App? Explain with `code examples`.
+- What would happen if we do `console.log(useState())`?
+- How will `useEffect` behave if we `don't add` a `dependency array`?
+- What is `SPA`?
+- What is the `difference` between `Client Side Routing` and `Server Side Routing`?
 ---
