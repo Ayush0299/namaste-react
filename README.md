@@ -105,7 +105,7 @@ own words.
 - `Advantages and Disadvantages` of using this `code splitting pattern`?
 - When `do we and why do we need suspense`?
 ---
-## 📚 [Episode 10 - Jo dikhta hai vo bikta hai]()
+## 📚 [Episode 10 - Jo dikhta hai vo bikta hai](https://github.com/Ayush0299/namaste-react/tree/main/Episode%2010%20-%20Jo%20dikhta%20hai%2C%20vo%20bikta%20hai)
 - Explore all the `ways of writing css`.
 - How do we `configure tailwind`?
 - In `tailwind.config.js, what does all the keys mean (content, theme, extend, plugins)`?
