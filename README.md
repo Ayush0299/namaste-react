@@ -98,4 +98,40 @@ own words.
 - (Research) Why do we use `super(props)` in `constructor`?
 - (Research) Why `can't we have` the `callback function` of `useEffect async`?
 ---
+## 📚 [Episode 09 - Optimizing our App](https://github.com/Ayush0299/namaste-react/tree/main/Episode%2009%20-%20Optimising%20Our%20App)
+- When and why do we need `lazy()`?
+- What is `suspense`?
+- Why we got this `error`: A component was suspended while responding to `synchronous input`. This will cause the `UI` to be replaced with a `loading indicator`. To `fix this`, `updates that suspend` should be wrapped with `start transition`? How does `suspense fix` this error?
+- `Advantages and Disadvantages` of using this `code splitting pattern`?
+- When `do we and why do we need suspense`?
+---
+## 📚 [Episode 10 - Jo dikhta hai vo bikta hai]()
+- Explore all the `ways of writing css`.
+- How do we `configure tailwind`?
+- In `tailwind.config.js, what does all the keys mean (content, theme, extend, plugins)`?
+- Why do we have `.postcssrc file`?
 
+---
+## 📚 [Episode 11 - Data is the new Oil]()
+- What is `prop drilling`?
+- What is `lifting the state up`?
+- What is `Context Provider` and `Context Consumer`?
+- If you `don’t pass a value to the provider does it take the default value`?
+---
+
+## 📚 [Episode 12 - Let's Build our Store]()
+- `useContext` vs `Redux`.
+- Advantage of using `Redux Toolkit over Redux`.
+- Explain `Dispatcher`.
+- Explain `Reducer`.
+- Explain `slice`.
+- Explain `selector`.
+- Explain `createSlice` and the `configuration it takes`.
+---
+
+## 📚 [Episode 13 - Time for the test]()
+- What are different types for `testing`?
+- What is `Enzyme`?
+- `Enzyme` vs `React Testing Library`
+- What is `Jest` and why do we `use it`?
+---
