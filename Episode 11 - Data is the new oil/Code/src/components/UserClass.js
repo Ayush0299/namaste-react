@@ -71,7 +71,7 @@ class UserClass extends React.Component {
         <h2>Name: {name}</h2>
         {/* <h3>Location: {this.props.location}</h3> */}
         <h3>Location: {location}</h3>
-        <h4>Contact: @vaasuk24</h4>
+        <h4>Contact: @Ayush24</h4>
       </div>
     );
   }
