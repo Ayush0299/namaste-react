@@ -3,7 +3,7 @@ const Footer = () => {
   return (
     <footer className="footer">
       <p>
-        Copyright &copy; {currYear}, Made with 💗 by <strong>Ayush</strong>
+        Copyright &copy; {currYear}, Made with 💗 by <strong>Ayush Patel</strong>
       </p>
     </footer>
   );
