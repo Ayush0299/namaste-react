@@ -112,7 +112,7 @@ own words.
 - Why do we have `.postcssrc file`?
 
 ---
-## 📚 [Episode 11 - Data is the new Oil]()
+## 📚 [Episode 11 - Data is the new Oil](https://github.com/Ayush0299/namaste-react/tree/main/Episode%2011%20-%20Data%20is%20the%20new%20oil)
 - What is `prop drilling`?
 - What is `lifting the state up`?
 - What is `Context Provider` and `Context Consumer`?
