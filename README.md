@@ -119,7 +119,7 @@ own words.
 - If you `don’t pass a value to the provider does it take the default value`?
 ---
 
-## 📚 [Episode 12 - Let's Build our Store]()
+## 📚 [Episode 12 - Let's Build our Store](https://github.com/Ayush0299/namaste-react/tree/main/Episode%2012%20-%20Let's%20Build%20Our%20Store)
 - `useContext` vs `Redux`.
 - Advantage of using `Redux Toolkit over Redux`.
 - Explain `Dispatcher`.
